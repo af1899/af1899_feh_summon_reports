@@ -179,7 +179,7 @@
 
 # Final thoughts and reflections
 
-While `19` 5★s for an amount as large as `639` [Orbs] that were spent across two months isn't a great trade-off, I'd say it went pretty well actually, since they all had either good fodder or are a merge of a project like Erinys, who eluded me on her rerun unfortunately.
+While `20` 5★s for an amount as large as `639` [Orbs] that were spent across two months isn't a great trade-off, I'd say it went pretty well actually, since they all had either good fodder or are a merge of a project like Erinys, who eluded me on her rerun unfortunately.
 Besides, I got all of the units I wanted despite the awful RNG and my scarce sources as an F2P, it's in times like these I'm grateful the spark was indeed implemented, though I wish that it wasn't a [Feh Pass] feature for some of the banners, but alas, I understand Intelligent Systems needs sales to rise up again or else their game is dying.
 
 I'm certain I want to save up after this ~~unless Intelligent Systems decides on making "Mythic Idoun", then yeah my [Orbs] are as good as dead~~.
