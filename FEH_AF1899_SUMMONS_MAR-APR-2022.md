@@ -8,7 +8,7 @@
 
 # Links
 
-> [Video]() | [Playlist of past summoning sessions](https://www.youtube.com/playlist?list=PLZoV5ZTFJImxV0LcfE9HpdGDdDc3q0jxI)
+> [Video](https://youtu.be/bXNYFIjYOBk) | [Playlist of past summoning sessions](https://www.youtube.com/playlist?list=PLZoV5ZTFJImxV0LcfE9HpdGDdDc3q0jxI)
 
 # Statistics per banner
 
