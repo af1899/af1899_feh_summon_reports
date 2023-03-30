@@ -19,7 +19,7 @@ Remember to check out my YT channel for videos on those summoning marathons:
 | [`2022.Aug-Sep.md`](/reports/2022.Aug-Sep.md) | Deirdre's and Julia's alts throughout August and September (2022). |
 | [`2022.H2.md`](/reports/2022.H2.md) | Various summoning sessions during the second half of 2022, excluding the ones in the previous report. |
 | [`2023.Jan.10.md`](/reports/2023.Jan.10.md) | Get as much merges as possible for Khadein Linde+Sara. |
-| [`2023.Apr.11.md`](/reports/2023.Apr.11.md) | Get as much merges as possible for Spring Sonya on her rerun in 2023. |
+| [`2023.Mar.11.md`](/reports/2023.Mar.11.md) | Get as much merges as possible for Spring Sonya on her rerun in 2023. |
 
 ### Notes
 * In the lists of obtained units, target unit(s) are signaled with a green circle before their alt type and name: :green_circle:. In most cases, it's safe to assume I'm hunting for their merges.
