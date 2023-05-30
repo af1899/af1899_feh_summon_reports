@@ -9,8 +9,10 @@ Remember to check out my YT channel for videos on those summoning marathons:
 
 > :clock930: [Playlist with all summoning marathons](https://www.youtube.com/playlist?list=PLZoV5ZTFJImxV0LcfE9HpdGDdDc3q0jxI)
 
+> :e-mail: Want to contact me? Sure, find me on [Mastodon](https://mastodon.social/@af1899), [Reddit](https://www.reddit.com/user/af1899) or [Twitter](https://twitter.com/af1899).
+
 ## List of reports
-> This is a directory of my reports, click on a file name to open it. The link to the matching video (if any) is included on the report itself.
+> :information_source: This is a directory of my reports, click on a file name to open it. The link to the matching video (if any) is included on the report itself.
 
 | File | Details of my pulls for/to... |
 | :- | :- |
@@ -20,8 +22,19 @@ Remember to check out my YT channel for videos on those summoning marathons:
 | [`2022.H2.md`](/reports/2022.H2.md) | Various summoning sessions during the second half of 2022, excluding the ones in the previous report. |
 | [`2023.Jan.10.md`](/reports/2023.Jan.10.md) | Get as much merges as possible for Khadein Linde+Sara. |
 | [`2023.Mar.11.md`](/reports/2023.Mar.11.md) | Get as much merges as possible for Spring Sonya on her rerun in 2023. |
+| [`2023.May.3.md`](/reports/2023.May.3.md) | Get as much merges as possible for Ascended Idoun on the second {Returning} banner. |
+| [`2023.May.30.md`](/reports/2023.May.30.md) :x: | Attempt to pull some merges for Valentian Palla, who I'd eventually get as a Forma. |
 
 ### Notes
 * In the lists of obtained units, target unit(s) are signaled with a green circle before their alt type and name: :green_circle:. In most cases, it's safe to assume I'm hunting for their merges.
-* [Focus Charge] is a feature [implemented in the 7.2.0 software update](https://feheroes.fandom.com/wiki/What%27s_In_Store_for_the_7.2.0_Update_(Notification)). Since rates change whenever the 3 [Focus Charges] are activated, the pity rate for focus units changes to 6% and ups by .5% every 5 pulls, while nulling chances to get pitybreakers. My reports will consider peak rates for both enabled and disabled states.
+* [Focus Charge] is a feature [implemented in the 7.2.0 software update](https://feheroes.fandom.com/wiki/What%27s_In_Store_for_the_7.2.0_Update_(Notification)). Since rates change whenever the 3 [Focus Charges] are activated, the pity rate for focus units changes to 6% and ups by .5% every 5 pulls, while nulling chances to get pitybreakers. My reports will consider peak rates for both enabled and disabled states, unless the banner didn't have the feature available.
 * In some instances, Idoun's skill collection is mentioned, a link will be provided to track its progression later on.
+* A :x: icon next to a report link means there's no video.
+* In the May 30th update, I tweaked some of the reports with fixes and improvements backported from newer reports.
+  * More reports will be updated in a future update.
+  * It doesn't make sense to keep a session for summoning plans, they eventually go unchecked because they go obsolete, so I'm removing 'em as part of the fixing I'm doing.
+
+# :gun: Current summoning plans 
+> :clock930: **Updated:** May 30th, 2023
+
+Hinoka, and now Palla, give me the excuse to keep saving for whoever my next goal is, and that's what I'll be doing, I don't have a set goal yet.
