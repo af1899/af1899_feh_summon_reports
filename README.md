@@ -35,7 +35,7 @@ Remember to check out my YT channel for videos on those summoning marathons:
 * In the lists of obtained units, target unit(s) are signaled with a green circle before their alt type and name: :green_circle:. In most cases, it's safe to assume I'm hunting for their merges.
 * [Focus Charge] is a feature [implemented in the 7.2.0 software update](https://feheroes.fandom.com/wiki/What%27s_In_Store_for_the_7.2.0_Update_(Notification)). Since rates change whenever the 3 [Focus Charges] are activated, the pity rate for focus units changes to 6% and ups by .5% every 5 pulls, while nulling chances to get pitybreakers. My reports will consider peak rates for both enabled and disabled states, unless the banner didn't have the feature available.
 * In some instances, Idoun's skill collection is mentioned. Since this repository has been archived, **it won't be updated anymore**, and the link would eventually break (and mislead people). The latest link will be available on the description of [this YouTube video](https://youtu.be/OOs0uxXoE6s). If it's gone or you don't/can't enter, contact me on the Fediverse to give you a link.
-* A red cross (:x:) icon next to a report link means there's no video.
+* A red cross ( :x: ) icon next to a report link means there's no video.
 
 # :warning: No longer playing *FEH*
 [This](/reports/2023.Jul.md) is the last report I've released due to me permanently quitting the game on July 31st, 2023.<br>

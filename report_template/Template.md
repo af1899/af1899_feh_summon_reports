@@ -61,7 +61,7 @@
 | :green_circle: Target | +boon/-bane | Focus | Add note(s) |
 | Some other 5★ | *Neutral/Sparked* | Pitybreaker | Add note(s) |
 
-> :bulb: Mark your target unit(s) with a green circle emoji (:green_circle:) before it, as shown above.
+> :bulb: Mark your target unit(s) with a green circle emoji ( :green_circle: ) before it, as shown above.
 
 # Commentary
 
